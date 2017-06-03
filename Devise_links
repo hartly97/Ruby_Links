@@ -1,0 +1,11 @@
+## Links
+https://github.com/plataformatec/devise/wiki
+https://github.com/plataformatec/devise#getting-started
+http://www.rubydoc.info/github/plataformatec/devise/
+https://github.com/bilalbash/rails_5_devise_app
+https://github.com/RailsApps/rails-devise-roles
+
+## Rails 5.0.0 Example
+"Devise with Rails":https://github.com/bilalbash/rails_5_devise_app  Rails 5.0.0, Devise 4.2.0, plus Bootstrap 
+"Rails5 skeleton":https://github.com/sachin/rails5-skeleton | Rails 5.0.0.1, Devise 4.2.0, plus Bootstrap4, Active Admin, STI for App patrons
+"Devise and Rails":https://github.com/RailsApps/rails-devise | Rails 4.2, Devise 3.2, plus Bootstrap or Foundation 
